@@ -1,0 +1,38 @@
+#			OBRAZKY
+
+
+delime na :
+	rasterove:
+		uklada sa bod po bode
+		kazdy bod sa ulozi pomocou tolkych bitov, aka je jeho farebna hlbka
+		nazvy farebnych hlbok:
+			high color - 16bit
+			true color - 24bit
+		.bmp - velke subory - nekomprimovany format
+		kompresovane:
+			GIF - maximalne 256 farieb
+	vektorove:
+		postrupnost instrukcii na zostrojenie obrazku
+		vektorove obrazky zaberaju mensi objem informacii
+		vo vektorovom editore kreslime loga, konstrukcne plany, grafy ....
+		urcite nie fotogtrafie
+
+#			VÍDEÓ
+
+postupnost obrazkov prehravanych rychlo za sebou
+kodovanie vídeá sa zmeni na kodovanie obrazkov
+kompresia vídeá:
+	zapisujeme iba zmeny v obraze
+	obraz sa komprimuje
+
+#			ZVUK
+
+zvuk sa siri v podobe spojiteho vlnenia vzduchu
+vibracie vo vzduchu -> vibracie v elektrine -> digitalizovany zvuk
+vzorkovacia frekvencia a velkost vzorky 
+ciste zapisanie hodnot do suboru -> .wav
+komprimovane wav -> mp3
+midi -> protokol na komunikaciu pocitaca so zvukovymi syntetizatormi -> .mid - iba zvuk hudobnych nastrojov - midi je asi 1000x mensie ako wav
+#proces digitalizacie zvuku nazyvame `samplovanie`
+
+#			bude pisomka
