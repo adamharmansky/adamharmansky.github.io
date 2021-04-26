@@ -1,0 +1,30 @@
+povodny text: https://www.gnu.org/gnu/manifesto.html
+
+osnova:
+	1.GNU
+	2.ciel autora
+	3.GNU a Unix
+	4.ako pomoct s vyvojom GNU
+	5.vyhody GNU
+	6.problemy s GNU
+	7.nepravdive problemy s GNU
+	8.upravy dokumentu z modernej doby
+konspekt:
+	GNU - rekurzivna skratka: Gnu is Not Unix
+	GNU - operacny system:
+		slobodny
+		zadarmo
+		pre kazdeho - "ako vzduch"
+		pouzivatel moze urobit zmeny ako chce
+	ciel:
+		platforma, kde ludia vedia zdielat softver
+		NEKOMERCNE
+	GNU je zalozene na unixe, lebo chce dodrzat aspon nejake standardy
+	mnohi programatori chcu pomoct
+	co by to znamenalo:
+		odstani kompetitivitu
+		vytvori velku komunitu ludi, co si budu iba pomahat
+		bude fungovat aj bez penazi
+	GNU je v dnesnej dobe skor iba kolekcia softveru a standardov, Linux je zalozeny na GNU, no nie je to to iste
+teza:
+	GNU je operacny system vytvoreny s cielom byt absolutne nekomercny a volny na pouzitie pouzivatelom uplne ako chce, zalozeny na komunite a volnej voli programatorov.

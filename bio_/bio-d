@@ -1,0 +1,182 @@
+#	SYSTEMATICKA BIOLOGIA
+[taxonomia]
+
+predmetom studia taxonomie je triedenie organizmov do systemu na zaklade urcitych znakov
+jeden z navyznamnejsich predstavitelov systematickej biologie je `Carl linne`, ktory zalozil dvojslovne pomenovania
+TAXONOMICKE JEDNOTKY:
+[taxony]
+	risa
+	podrisa
+	oddelenie/kmen
+	trieda
+	rad
+	celad
+	rod
+	druh - zakladna systematicka jednotka
+
+5 ris organizmov:
+
+	monery		-monera
+	jednobunkovce	-protista
+	rastliny	-plantae
+	huby		-fungi
+	zivocichy	-animalia
+
+prvoky su podrisou aj jednobunkovcov aj zivocichov
+
+
+#	PRVOKY
+[protozoa]
+heterotrofne organizmy
+telo tvori jedina eukaryoticka bunka
+velkost od 2u,m do 3mm
+maju vysoky vyvojovy vyznam
+
+             .-------------------,,,
+            /    ___       (SSS)   ----.
+           |    ---\\\                  \
+       ----O   |OOO|||                   |
+      /    |    ---///                  /
+      |     \    ^  ^   (SSS)       ----'
+      /      '---|--|-----^------'''<-- bunkova stena(vnutorna a vonkajsia(pelikula))
+   ---           |  |     |
+    |            |  |     '- mitochondria
+    |            |  '------- endoplasmatizke retikulum
+    |            '---------- jadro bunky
+    '----------------------- bicik(flagellum)
+                       alebo brvy(cilie)
+                       alebo panozky(pseudopodie)
+
+prijem potravy:
+        difuzia/osmoza:	presun latky cez polopriepustnu membranu medzi dvoma rozne koncentrovanymi roztokmi
+,-------fagocytoza:	presun pevnych castic do bunky tak, ze sa obalia do bunkovej membrany
+|,------pinocytoza:	to iste, iba pre ovela mensie castice(alebo tekutiny)
+||
+||
+||	 -------	 -------	 -------
+||	|      -/	|   --  |	|       |
+'->	|     |  O	|  |O | |	|    O  |
+ |	|      -\	|   --  |	|       |
+ |	 -------	 -------	 -------
+ |
+ |	. :..:.::.::..::.  .: :.: . :. :.: ::: ::
+ '->	:..:.:: :.:.::. :: ::.:::. ::.:: :: ..: :
+	------__---:.::-----::-------------------
+		           \--/	  |::.:|   .----.
+	                           '--'    |:.::|
+	                                   '----'
+
+
+	.-------------------------------------.
+	|U nalevnikov (naprikald crievicky) je|
+	|osobitna stavba bunky a teda aj odli-|
+	|sny sposob prijmu potravy: maju bunk-|
+	|ove usta, bunkovy hltan, traviace va-|
+	|kuoly a bunkovy analny otvor. (Noaoz-|
+	|aj nemam nervy kreslit dalsi ASCII o-|
+	|brazok)                              |
+	'-------------------------------------'
+
+rozmnozovanie:
+	nepohlavne:
+		delenim, pucanim
+		rozpad - po zmnozeni genetickej in-
+		formacie sa organizmus rozdeli na -
+		viac samostatne funkcnych novych o-
+		rganizmov
+	pohlavne:
+		vznik pohlavnych buniek, ich vymena
+		a spojenie
+		konjugacia - vymena jadier u nalev-
+		nikov - napr. crievicky
+
+	pohlavne a nepohlavne rozmnozovanie sa cas-
+	to strieda - RODOZMENA (metageneza) - hlav-
+	ne paraziticke druhy, zlozity rozmnozovaci 
+	cyklus stazi hostitelovi boj s parazitom
+
+	nepriaznive podmienky:
+		cysty:
+			odolne rozmnozovacie struk-
+			tury volne zijucich prvokov
+			, roznasaju sa napriklad v-
+			etrom. bunka zredukuje svoj
+			obsah a obali sa odolnym o-
+			balom.
+		spory:
+			odolne rozmnozovacie struk-
+			tury prazazitickych prvokov
+
+
+
+KMEN: menavkobicikovce
+[sarcomastigophora]
+- strieda sa u nich v roznych stadiach zivota menavkovity a bicikovy pohyb
+podkmen:
+	bicikovce
+	prevazne sa pohybuju bicikom, typicky heterotrofne
+	volne zijuce - rod Bodo, svetielko jagave
+	paraziticke:
+		trypanozóma spavičná – spôsobuje spavu chorobu (prenasana muchou tse-tse)
+		bičovka rybia - parazituje na rybach
+		trichomonas pošvový - trichomoniaza
+		črevovníčka detská (žardia črevná) - zardioza - hnackove ochorenie u deti
+		Leishmannia sp. - kazdy druh ma ine priznaky
+
+PODKMEN: korenonozce
+	nadtrieda: menavkovce
+		menavky:
+			velka
+			mala
+			zubna - papa nase parazity v zuboch
+			crevna - komenzalista
+			cervienkova - ked sa premnozi, sposobuje ochorenie CERVIENKA
+			negleria - slzovickovka zhubna - zapal mozgovych blan
+			pelomyxa bahenna - velmi velka
+		dierkavce:
+			maju schranku - horninotvorny vyznam
+	nadtrieda: nitkonozce
+		nitkove panozky
+		schranky z oxidu kremiciteho
+		triedy:
+			mrezovce:	radiolaria - vznika z nich radiolarit
+			slncovky:
+KMEN: výtrusovce (Apicomplexa)
+	iba parazity
+	maju aplikalny komplex - aparat na pole(apex) bunky,
+	ktory sluzi na prichytenie na hostitela a spomalenie
+	jeho imunitnych reakcii.
+	zlozite vyvinove a rozmnozovacie cykly
+
+		gregarina švábia
+		kokcídia pečeňová - kocidioza - ochorenie pecene kralikov a zajacov
+		toxoplazma - toxoplasmoza - prenasa sa mackami a holubmi - velmi nebezpecna pre tehotne zeny
+		maláriovec (trojdňový/štvordňový/tropický) - anophenes acculipenis - antimalarika
+	
+	najviac v krajinach okolo rovnika
+
+
+
+#		NALEVNIKY
+[ciliophora]
+
+volne zijuce
+ziju vo vode
+rozmnozuju sa bud nephlavne[delenim] laebo vetrom - cysty
+
+konjugacia - spoja sa cez bunmkove usta a vymenia si casti mikro jadier a zacnu sa intenzivne delit
+[creivicka.xcf]
+
+	crievicka koncista
+	crievicka velka
+	rod sibavec
+	bachorovky
+	cicavky
+
+vyznam prvokov:
+
+	+niekore s nami ziju v symbioze (menavka zubna)
+	-mozu byt takisto aj parazity (negleria)
+	+reducenty
+	+horninotvorny vyznam ()
+	? dlho som nad tym rozmyslal a neviem majst dalsi vyznam

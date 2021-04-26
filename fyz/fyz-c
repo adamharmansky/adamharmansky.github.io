@@ -1,0 +1,49 @@
+#	VEKTOROVE A SKALARNE VELICINY
+
+skalarne veliciny:
+	t = 5 s
+	r = 10 m
+vektorove veliciny:
+	urcuju sa este smerom
+	v = (6, 2, 1) m/s
+	polohovy vektor urcuje polohu vzhladom na stazny bod
+	posuvny vektor urcuje zmenu polohy vzhladom na iny bod
+
+graficke scitannie vektorov:
+
+	--------->
+	          ----->
+	---------+----->
+
+		    a
+		--------->
+        \'-.      \
+         \  '- c   \
+         b\   '-.   \b
+           \     '-..\
+            V        >V
+             --------->
+                  a
+
+rozklad vekotra:
+
+^            __-->
+|        __--
+|    __--
+|__--
++---------------->
+
+
+#		ROVNOMERNY A NEROVNOMERNY POHYB
+
+trajektoria - mnozina poloh predmetu pocas pohybu
+draha - velkost trajektorie
+posunutie(vektor) - spaja zaciatocnu a konecnnu polohu objektu
+
+pohyb:
+	rovnomerny dv/dt=0
+	nerovnomerny
+reprezentacia pohybu:
+	grafom
+	tabulkou
+	....

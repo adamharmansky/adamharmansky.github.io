@@ -1,0 +1,206 @@
+Adam Harmanský
+
+Poďme postaviť počítač
+
+Čo budeme robiť
+ - ukážeme si ako fungujú polovodiče
+ - naučíme sa postaviť základné logické obvody
+ - ukážeme si ako sa pomocou týchto obvodov vykonávaju logické operácie
+ - vytvoríme jednoduchú sadu inštrukcií
+ - postavíme jednoduchý turingov stroj
+ - ukážeme si čo to vie spraviť
+
+Čo už musíme vedieť
+
+@2cf8.png
+
+Takisto
+ - prúdová konvencia [+ -]
+ - konvencia logických signálov (0=[-], 1=[+])
+ - binárne čísla a naša konvencia (little endian bits + bytes)
+
+POLOVODIČE
+
+polovodiče
+ - už poznáme vodiče
+ - vedú prúd podľa rozloženia elektrónov
+   - niekedy voľné elektróny majú, no mi im ich môžeme zobrať/pridať
+
+@1666.png
+
+@35f9.png
+
+@7c5e.png
+
+DIÓDY
+
+@46c9.png
+
+@d68c.png
+
+@fb82.png
+
+TRANZISTORY
+
+tranzistory
+ - veľmi dôležité
+ - povolia pretekať prúdu podľa prúdu/napätia na treťom vstupe
+
+existuje viac druhov
+ - FET
+ - BJT
+sú najznámejšie
+my budeme používať BJT (bipolárne)
+
+@ebdf.png
+
+@05a2.png
+
+Dobre poďme to využiť
+
+@5ab3.png
+
+@4dd4.png
+
+@8023.png
+
+@7006.png
+
+@4ceb.png
+
+Dobre, pokrok
+
+pozrime sa čo s tým dokážeme
+
+@675c.png
+
+@23e2.png
+
+@c9e6.png
+
+@6932.png
+
+@c33a.png
+
+@3201.png
+
+@6718.png
+
+Čas na ďalšie konvecie
+
+@a362.png
+
+@938d.png
+
+super
+
+PAMÄŤ
+
+@c671.png
+
+@4cdd.png
+
+@468d.png
+
+Pamäťový čip
+ - existuje RAM a ROM(pre nás je dôležitejšia EEPROM)
+ - je to čip, ktorý obsahuje milióny pamäťových jednotiek
+ - každá jednotka má svoju adresu, ku ktorej pristúpime signálom na danom pine
+ - z pämaťového čipu môžeme čítať, ale aj do ňho písať, podľa signálu na pine WE a OE
+ - VIEME PRISTÚPIŤ IBA NA JEDNO MIESTO V PAMÄTI NARAZ
+
+okrem pár logických výziev
+sme už celkom pripravení
+postaviť počítač
+
+Brainf[+-]ck
+
+naša architektúra
+veľmi jednodychý jazyk
+štýl turingovho stroja
+6 inštrukcií
+kompletne relatívne adresy!!!
+operuje na virtuálnej "páske"
+
+<>+-[]
+
+@c827.png
+
+@43db.png
+
+@3a10.png
+
+@916c.png
+
+@8a56.png
+
+@5324.png
+
+@1b64.png
+
+@1a69.png
+
+@aefe.png
+
+@10ba.png
+
+@beb0.png
+
+@f42b.png
+
+@22b1.png
+
+@4344.png
+
+@8adb.png
+
+@4d1d.png
+
+@5dbb.png
+
+@014b.png
+
+@a124.png
+
+@3efd.png
+
+@470f.png
+
+@f3b9.png
+
+@b46e.png
+
+dobre, čo potrebujeme riešiť:
+ - pamätať si kde v pamäti premenných sa nachádzame
+ - pamätať si kde v programe sa nachádzame
+ - zväčšovanie/zmenšovanie čísel
+ - zátvorky môžu byť aj v sebe ++[>++++[>+++<-]<-]
+ - časovanie!!
+
+ČASOVAČ
+"clock"
+
+zaručuje že sa inštrukcie vykonávajú v poradí
+čaká, kým sa prenesie signál vo vodičoch
+ak je príliš rýchly, počítač nebude fungovať
+
+stavba takéhoto časovača je nad náš rámec času
+aj keď je to vpodstate jednoduché
+treba nám ale vedieť kondenzátory
+
+počítadlo zátvoriek je nula?
+├áno ->
+│  + skopíruj číslo -> zväčši číslo -> zapíš číslo
+│  - skopíruj číslo -> zmenši číslo -> zapíš číslo
+│  > skopíruj číslo -> zväčši číslo -> zapíš číslo
+│  < skopíruj číslo -> zmenši číslo -> zapíš číslo
+│  [ skontroluj či je nula ->
+│      ├áno -> zvýš počítadlo zátvoriek
+│      └nie -> nič nerob
+│  ] zníž počítadlo zátvoriek
+└nie ->
+   [ zvýš počítadlo
+   ] zníž počítadlo
+počítadlo zátvoriek > 0 -> poď na ďalšie miesto v programovej pamäti
+počítadlo zátvoriek = 0 -> poď na ďalšie miesto v programovej pamäti
+počítadlo zátvoriek < 0 -> poď na predchádzjúce miesto v programovej pamäti
