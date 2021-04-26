@@ -1,0 +1,2 @@
+run:
+	sent poc.sent

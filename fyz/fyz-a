@@ -1,0 +1,78 @@
+Zapis hodnoty fyzikalnej veliciny
+
+Co je to veda?
+	problém->formulácia->vedecký model->výsledky->predikcie->verifikácia
+	vedu chapeme ako efektivny proces vytvarania a testovania modelov, pomocou ktorych vedia vedci robit presne a spolahlive predpovede
+	fyzika <- fysis - priroda
+	fyzika je prirodna veda, ktora skuma vlastnosti hmoty, zakonitosti prirodnych javov a stavbu hmoty
+
+	pozorovanie->poznatok->teoria->experimentalne overenie
+
+		teoreticka		mechanika			klasicka
+		experimentalna		molekulova fyzika		relativisticka
+					termodynamika			kvantova
+					kvantova a statisticka fyzika
+					.........
+
+	zakladnym pojmom v fyzike je hmota
+
+	Fyzikalna velicina:
+
+		jednotka vyjadrenia velkosti vlastnosti objektu
+
+	Meranie vlastnosti:
+
+		ziskavanie ciselnej hodnoty porovnavanim k inej vlastnosti
+
+	Hodnota fyz. veliciny:
+
+		vyjadrena ako jednotka
+
+
+
+
+		medzinarodna sustava SI
+
+		ZAKLADNE JEDNOTKY
+
+|--------------------------------------------------------
+|hmotnost		m	kilogram	kg	|
+|dlzka			l	meter		m	|
+|cas			t	sekunda		s	|
+|teplota		T	kelvin		K	|
+|el.prud		I	amper		A	|
+|sclietivost		l	kandela		cd	|
+|latkove mnozstvo	n	mol		mol	|
+|--------------------------------------------------------
+|rovinny uhol		[fi]	radian		rad	|
+|priestorovy uhol	[OMEGA]	steradian	srd	|
+---------------------------------------------------------
+
+
+		ODVODENE JEDNOTKY
+
+rychost		v	l/t	meter za sekundu	m/s
+sila		F	mst^-2	newton			kgms^-2
+
+
+		NASOBKY A DILEY
+
+
+exa	1000000000000000000
+peta	1000000000000000
+tera	1000000000000
+giga	1000000000
+mega	1000000
+kilo	1000
+----1
+mili	1/1000
+mikro	1/1000000
+nano	1/1000000000
+piko	1/1000000000000
+femto	1/1000000000000000
+atto	1/1000000000000000000
+
+
+182000 kn
+0.4284 dm^3h^-1
+

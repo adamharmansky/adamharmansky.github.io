@@ -1,0 +1,180 @@
+#		PROKARYOTICKE ORGANIZMY
+
+"pomerne jednoduche jednobunkove organizmy bez praveho jadra"
+
+bakterie, sinice, archeony
+mensie ako eukarioticke bunky
+1 - 10 um
+veda skumajuca bakterie: bakteriologia
+zakladatelia: koch a pasteur
+
+stavba prokaryotickej bunky:
+
+               /--------------------------------------\<--- bunkova stena
+              / /------------------------------------\ \
+             / /      .<- ribozom        .            \<--- cytoplazmaticka membrana
+            | | (*)<-inkluzia 8  8 |            .      | |
+         ------            -SSSSSSSSSS                 | |
+        /   | |    .        /  SSSSS8SSSSS-  <- nukleoid |
+       /    | |                /             .         | |
+      |      \ \  O<-plasmid   .     .                / /
+      \       \ \------------------------------------/ /
+       |       \--------------------------------------/  <--- na povrchu slizove puzdro
+       \
+        ---------------- <- bicik
+
+
+bunkova stena: nie je z celulozy
+ribozomy: pomahaju tvorit bielkoviny
+plasmidy: extra kusy nukleovej kyseliny
++brvy (fimbrie)
++bicik
++inkluzie: extra nezive sucasti bunky - napr. odpadovy produkt metabolizmu
++tylakoid: vybezok z cytoplazamticke membrany, v ktorom mozu byt ulozene fotosynteticke farbiva
+cytoplazmaticka membrana: zastupuje funkciu vsetkych chybajucich membranovych organel eukaryotickej bunky (mitochondrii, golgiho araratu, endoplazmatickeho retikula...)
+
+v nukleoide je ulozena zakladna geneticka informaci pre prokarioticku bunku
+niektore bakterie obsahuju aj pazmidy, ktore obsahuju bonusovu geneticku informaciu
+
+
+#BAKTERIOFAGY:
+#	specificka stavba, aby mohli preniknut cez vsetky obaly bakterialnej bunky:
+#
+#              /-----\
+#             /       \<-- kapsid
+#             | SSSSS<---- nukleova kyselina
+#             | SSSSS |
+#             \ SSSSS /
+#              \     /
+#              ------- <--golierik
+#               |   | <---chvostik
+#            .  |   |  .
+#           / \ |   | / \
+#          /   \|   |/   \<--koncove vlakna
+#         /    ------- <--\--bazalna platnicka
+#        /     |     |     \
+#                    ^-------hroty
+#
+#	ked bakteriofag napadne bakterialnu bunku, moze preniest cast genetickej informacie z jednej bunky na druhu
+
+
+
+delenie bakterii:
+	podla tvaru:
+		gulovite - koky - streptokoky - stafylokoky - diplokoky
+		tycinkovite - bacily
+		spiralovite - spirily
+		vlaknite - aktinomycety
+
+		vibria - slzicka s bicikom
+	podla fyziologickej charakterisktiky:
+		podla zdroja uhlika:
+			autotrofne - ziskavaju uhlik fotosyntezou
+			heterotrofne - ziskavaju uhlik z inych zdrojov
+		podla zdroja energie:
+			fototrofne - zo slnka fotosymtezou - napr. sinice
+			chemotrofne - energia z istych inych chemickych vazieb v prirode - napriklad rozklad zeleza
+		podla vztahu ku kysliku
+			aerobne - potrebuju ho
+			anaerobne - nepotrebuju ho
+			fakulativne aerobne - dokazu sa prisposobit
+
+OTAZKY:
+
+	-Prečo sa do ranky pri menších poraneniach leje ako dezinfekcia peroxid vodíka? - presiel som cely internet a pol a mojim najlepsim zdrojom bolo:
+	"Hydrogen peroxide works by producing destructive hydroxyl free radicals that can attack membrane lipids, DNA, and other essential cell components." (tu podstatnu cast by som povedal aj sam)
+
+	-Prečo sa používa na dezinfekciu napr. Savo?:
+		ma silne rozpustacie vlastnosti a rozpusti aj bunky
+
+
+#	ROZMNOZOVANIE BAKTERII
+
+nakterie sa mozu v principe rozmnozovat rovnako ako kazdy iny jednobunkovy organizmus:
+
+	NEPOHLAVNE ROZMNOZOVANIE:
+
+		bakteria sa jednoducho rozdeli napoly
+		priecne / priame delenie:
+			o -> O -> 8 -> oo
+		pucenie
+			o -> 8 -> oo
+		tvorba sporov
+			o -> o.: -> o  o
+	"POHLAVNE ROZMNOZOVANIE":
+		proces, pri ktorom si bakterie navzajom odovzavaju plasmidy
+		bakteria s plasmidom vytvori duty bielkovinovy mostik [pilus], cez ktory sa odovzada kopia plasmidu do inej bunky
+
+		0  O -> 0-O -> 0-0 -> 0  0
+
+
+#		VYZNAM BAKTERII
+
+bakterie su kozmopolitne organizmy - ziju vsade
+
+	tvoria symbiozu - ukladanie dusika, travenie
+	bakterie mliecneho kvasenia - syr, jogurt, .....
+	alelopaticke bakterie - pomahaju pri tvorbe antibiotik
+		Alexander Fleming - uplnou nahodou objavil antibiotika
+	bakterie zabezpecuju kolobeh latok v prirode
+	samocistenie vody
+	forma biologickeho boja
+
+	patogenne bakterie - sposobuju choroby:
+
+		ochorenia traviacej sustevy:
+
+			hnackove ochorenia
+				e.coli
+			salmoneloza
+				salmonela
+			cholera
+				vibrio cholerae
+			tyfus
+
+		ochorenia dychacej sustevy:
+
+			tuberkuloza
+				kochov bacil
+			zap[al pluc (pneumonia)
+				pneomokoky
+			angina
+				rozne streptokoky a stafilokoky
+
+		pohlavne ochoreia
+
+			kvapavka
+			syfilis
+
+		+tetanus - pohybova sustava
+
+#		SINICE
+[cyanobakterie]
+
+autotrofne (fototrofne) baktereie schopne fotosyntezy - obsahuju BAKTERIOCHLOROFYL, FYKOCYANIN vo svojich tylakoidoch
+
+rozmonozuju sa najcastejsie delenim a sporenim
+podielaju sa na eutrofizacii vody - vodny kvet (flos aque)
+
+#		ARCHEONY
+
+su samostatnou vyvojovou liniou prokaryotickych organizmov
+ich bunkova stena sa sklada z inej latky - pseudomurein
+vedia prezit v extremnych podmienkach
+
+[metanoarcheony]
+	produkuju metan
+	zijo vo vodach s obsahom hnijucich organickych zvyskov
+[haloarcheony]
+	vo vodach s vysokym obsahom soli
+	preziju aj v nasytem roztoku NaCl
+[termoarcheony]
+	preziju velke teploty
+	70-110 stupnov C
+	ziju v horucih sirnych pramenoch a v okoli podmorskych sopiek
+
+	vyznam archeonov:
+
+		biotechnologie, cistenie odpadovych vod, produkcia bioplynu
+		biodegradacia, tazba kovov
+

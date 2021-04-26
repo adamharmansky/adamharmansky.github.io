@@ -1,0 +1,18 @@
+#	KINEMATIKA HMOTNEHO BODU
+
+veda zaoberajuca sa polohami bodov a ich zmenami v case
+
+[hmotny_bod]
+	fyzikalny mdel telesa, pri ktorom sa hmotnost telesa zachovava a jeho rozmery sa zanedbavaju
+	
+teleso kona mechanicky pohyb, ak meni svoji polohu vzhladom na pevne zovleny bod
+
+vztazna sustava:
+	vztazne teleso
+	vztazny bod
+	surodnicova sustava
+	sustava casomernych zariadeni
+
+kartezianska sustava suradnic:
+	3 cisla
+polohu bodu vzhladom na iny mozeme urcit takist odanou useckou `r`, ktorej zaciatok umiestnime do bodu 0
