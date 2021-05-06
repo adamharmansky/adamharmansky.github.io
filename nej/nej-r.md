@@ -1,0 +1,6 @@
+ - jahrgang - školský rok
+ - AG - krúžok
+ - schülerzeitung
+ - füßballrasen - yk
+ - taffel - tabuľa
+ - **ein**e Jeans - **SINGULAR**

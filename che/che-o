@@ -1,0 +1,3 @@
+pH  = -log₁₀[H₃O⁺]
+pOH = -log₁₀[ OH¯]
+pH + pOH = 14
