@@ -32,3 +32,4 @@
 > p_1 + 1/2%rho v_1^2 + %rho h_1 g = const
 
 - dá sa to odvodiť nebudem to sem písať lmao dám to sem keď to budeme robiť na hodine
+- ok robime to na hodine a stale to nepisem
