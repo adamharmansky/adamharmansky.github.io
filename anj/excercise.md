@@ -15,16 +15,17 @@
  13. Tom didn't use to climb (not/use/climb) in the mountains last summer.  
  14. What were Tom’s children doing (do) all the Sunday afternoon? Probably they were playing (play) the computer games.  
  15. Oh, I loved (love) my winter holidays because I skied (ski) every day from 9 in the morning to 4 in the afternoon in lovely weather.  
- 16. I have eaten (eat) three kilos of oranges for breakfast yesterday morning. Now I won't be able to (not/can) eat the oranges for weeks.  
+ 16. I ate (eat) three kilos of oranges for breakfast yesterday morning. Now I won't be able to (not/can) eat the oranges for weeks.  
  17. My best friend beacame become) a teacher a year ago.  
- 18. We ... (not/drink) coffee.We ... (drink) tea during our stay in England because their tea ...( be) really excellent.  
- 19. ... you .. (post) a letter yesterday that I ... (give) you?  
- 20. While I ... (wait) for my cousin in front of the cinema, I ... (meet) my old friends and  we ... (chat) for more than 20 minutes. 
- 21. Put the verb into the corect form, past perfect continuous or past continuous  
- 22. Tom was leaning against the wall, out of breath. He ..... /run/.  
- 23. I tried to catch Tom but I couldn’t. He ..... /run/ very fast.  
- 24. Jim was on his hands and knees on the floor. He ... /look/ for his cigarette lighter.  
- 25. We ..../walk/ along the road for about 20 minutes when a car stopped and the driver offered us a lift.  
- 26. When I arrived, everyone was sitting round the table with their mouths full. They .../eat/.  
- 27. When I arrived, everyone was sitting round the table and talking. Their mouths were empty but their stomachs were full. They ... /eat/.  
- 28. When I arrived, Ann ..../wait/ for me. She was rather annoyed with me because I was late and she .../wait/ for a very long time.   
+ 18. We didn't drink (not/drink) coffee.We were drinking (drink) tea during our stay in England because their tea was (be) really excellent.  
+ 19. did you post (post) a letter yesterday that I have given (give) you?  
+ 20. While I was waiting (wait) for my cousin in front of the cinema, I met (meet) my old friends and  we were chatting (chat) for more than 20 minutes. 
+
+# Put the verb into the corect form, past perfect continuous or past continuous  
+ 1. Tom was leaning against the wall, out of breath. He had been running /run/.  
+ 2. I tried to catch Tom but I couldn’t. He was running /run/ very fast.  
+ 3. Jim was on his hands and knees on the floor. He was looking /look/ for his cigarette lighter.  
+ 4. We had been walking /walk/ along the road for about 20 minutes when a car stopped and the driver offered us a lift.
+ 5. When I arrived, everyone was sitting round the table with their mouths full. They were eating /eat/.
+ 6. When I arrived, everyone was sitting round the table and talking. Their mouths were empty but their stomachs were full. They had been eating /eat/.  
+ 7. When I arrived, Ann was waiting /wait/ for me. She was rather annoyed with me because I was late and she was waiting /wait/ for a very long time.   

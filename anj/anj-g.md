@@ -236,3 +236,4 @@ They suggest continuity and often occur with **SINCE**/**FOR**.
  - check examples
  - **HOW LONG** had something been taking place before something else happened
    - *Ken had been smoking for 30 years when he finally gave it up.*
+
