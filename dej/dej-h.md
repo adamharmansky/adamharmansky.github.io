@@ -25,6 +25,7 @@ v troch roznych smeroch
    - moskovske kniezatstvo
 	- kralovstvo srbov
    - ......
+
 #### Juzni slovania
 
  - bosna a hercegovina
@@ -52,13 +53,54 @@ v troch roznych smeroch
  - podla starych geografickych nazvov usudili, ze *slav* moze mat nieco spolocne s riekami a vodou
  - slovania = anti = veneti
 
-## historicke zmiemky
- - Jordanes ich popisuje v 6. storoci
- - Herodot v 5. storoci
+## Historicke zmienky
+ - Jordanes ich popisuje v 6. Storočí
+ - Herodot v 5. Storočí
  - Fredegard
 
 ## Strava
  - **MED**
  - ovosne kase
  - polievky
- - mali **KVASOK**
+ - mali **KVÁSOK**
+
+\pagebreak
+
+## správanie Slovanov
+ - boli sme pohostinní, no k nepriateľom zlí
+ - museli sme makať lmoa
+   - boli sme veľmi šikovní poľnohospodári
+   - ale boli sme aj celkom od fachu remeselníci
+ - cestovatelia hovorili, že Slovania boli špinaví
+
+ - šperky nosili muži wtf
+
+## Bývanie
+ - hradisko = hrad + isko
+   - 10 - 15 domov
+     - polozemnice
+       - sedlova strecha
+       ![dom lmao](2.jpg)
+
+## Náboženstvo
+ - ešte nie kresťanstvo
+ - kopa bohov
+ - položilo základy spoločenských udalostí a kultúry starovekých Slovanov
+   - strava -> tryzma -> kar
+
+## spoločenská hierarchia daria
+ - náčelník
+ - zeny majú pravá voliť
+
+\pagebreak
+
+# Samova Riša
+(623-658)
+
+ - Slovania boli iba barbarsky stat
+ - ah ok zobral si nás franský kupec Samo
+   - lmao nemal nástupcov
+ - napadali nás Avari
+ - **bitka pri Vogastisburgu** - Franská ríša vs Slovania
+ - 5 rokov na to Samo zomiera
+ - O týchto udalostiach nám rozprava fredegarova kronika
