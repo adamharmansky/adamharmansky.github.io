@@ -1,4 +1,4 @@
-#Úloha 1
+# Úloha 1
 
 > Zostrojte všetky trojuholníky ABC, ak je dané: $\alpha, v_b, t_a$, kde $0 < \alpha < 180^o , v_b > 0, t_a  > 0$
 
@@ -16,21 +16,27 @@ tak v trojuholníku ani asi nemôže byť uhol väčší ako $180^o$, to by ani 
 
 ## Rozbor
 
+ - body
+   - dané
+     - P, B
+   - hľadané
+     - A, C
+
 ![náčrt](4.png)
 
-$p; p \perp \overline{BP} ; P \in p$
+$p \perp \overline{BP} ; P \in p$
 
-$A; a \in G_{\alpha}(BP) \cap p$
+$a \in G_{\alpha}(BP) \cap p$
 
-$S; |SA| = |SB|; S \in \overline{AB}$
+$|SA| = |SB|; S \in \overline{AB}$
 
-$X; \overline{SX} || \overline{AX}$
+$\overline{SX} || \overline{AX}$
 
-$k; k(A, t_a)$
+$k(A, t_a)$
 
-$T; T \in k \cap \overrightarrow{ST}$
+$T \in k \cap \overrightarrow{ST}$
 
-$C; C \in p \cap \overrightarrow{BT}$
+$C \in p \cap \overrightarrow{BT}$
 
 ## Postup
 
@@ -50,4 +56,4 @@ irelevantná
 
 ## Diskusia
 
-oh no to som ešte nerobil
+

@@ -2,9 +2,17 @@
 
 K obdĺžniku s rozmermi $\sqrt{12}$ cm a $\sqrt{3}$ cm zostrojte štvorec rovnakého obsahu. Stranu obdĺžnika dĺžky $\sqrt{3}$ zostrojte pomocou Pytagorovej vety, stranu $\sqrt{12}$ zostrojte pomocou Euklidovej vety o odvesne.
 
+![náčrt](5.png)
+
 ## Rozobor
 
 neviem čo všetko tu treba
+
+ - body
+   - dané
+     - A, B, C, D
+   - hľadané
+     - A', Q, E, F, G, H, J, K, L
 
 $\sqrt{3} = \sqrt{2^2 - 1^2}$
 
@@ -17,8 +25,6 @@ $12 = 6 \cdot 2$
  - potom robíme štvorec pomocou tálesovej vety o výške alebo ako sa volá,- tá druhá
 
  - áno a $\sqrt{12}$ si dovolím použiť ako názov strany
-
-![náčrt](5.png)
 
 $|AB| = 2$
 
@@ -93,10 +99,15 @@ $\square GJKL$
 1. $t_o; t_o(S_o, |H S_o|)$
 1. $p; p \perp HI; G \in p$
 1. $J; J \in t_o \cap p$
-1. $K, L; \overline{JK} \perp \overline{GJ}; \overline{KL} \perp \overline{KJ}$
+1. $K; \overline{JK} \perp \overline{GJ}; |JK| = |GJ|$
+1. $L; \overline{KL} \perp \overline{KJ}; |KL| = |KJ|$
 1. $\square GJKL$
 
 
 ## Konštrukcia
 
 ![konštrukcia](6.png)
+
+## Diskusia
+
+ak toto celé rátame ako jednu konštrukciu, tak máme nekonečne veľa riešení, lebo útvary som robil iba tak vedľa seba. Ale môžem Vám povedať, že oba trojuholníky majú jedno riešenie v polrovine a obdĺžnik so štvorcom takisto. Veľkosť a orientácia obdĺžnika a štvorca nezáleží od orientácie trojuholníkov.

@@ -16,11 +16,15 @@ $\alpha = |\angle CAB| = 60^o$
 
 ## Rozbor
 
+ - body
+   - dané
+     - $C$, $C1$
+   - hľadané
+     - A, B
+
 no v prvom rade, ja som tu spravil takú menšiu fintu, dúfam, že mi to uznáte:
 
-> vy ste určite chceli, aby sme si spravili množinu G a aby sme ju pretli s $AB$, ale vpodstate nám to ani netreba, keďže poznáme dva uhly v trojuholníku $\triangle C C_2 A$. My **nemôžeme** dopočítavať a tomu rozumiem, no uhol $90^o$ si vieme preniesť a $60^o$ skonštruujeme na mieste, u nás uhol $\angle XCY$, ako vidieť na obrázku. tieto dva uhly zostrojíme za sebou (ako na obrázku) a tak ich vpodstate odčítame od $180^o$, veď v náčrte to je vidno. Voilà. Žiadna množina G!
-
-\pagebreak
+> vy ste určite chceli, aby sme si spravili množinu G a aby sme ju pretli s $AB$, ale vpodstate nám to ani netreba, keďže poznáme dva uhly v trojuholníku $\triangle C C_2 A$. My **nemôžeme** dopočítavať a tomu rozumiem, no uhol $90^o$ si vieme preniesť a $60^o$ skonštruujeme na mieste a všetko si vieme odčítať aj na obrázku.
 
 ### Ok, až toto je samotný rozbor:
 
@@ -35,7 +39,9 @@ $B \in l \cap p; l(T, |AT|)$
 ## Postup
 
 1. $C C_1; |C C_1| = 5 cm$
-2. $\overrightarrow{CZ}; X \in \overrightarrow{C_1 C}; |\angle XCY| = 60^o ; |\angle YCZ| = 90^o$
+2. $X; X \in \overrightarrow{C_1 C}$
+3. $Y; |\angle XCY| = 60^o$
+2. $Z; |\angle YCZ| = 90^o$
 3. $p; p \perp \overline{C C_1}; C_1 \in p$
 4. $A; A \in p \cap \overrightarrow{CZ}$
 5. $k; k(C, 5.5cm)$
