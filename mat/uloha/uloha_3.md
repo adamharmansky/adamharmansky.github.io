@@ -14,7 +14,11 @@ $|XCB| = 90°$
 
 ## Rozbor
 
-tak pozrime sa, čo vieme:
+ - body
+   - dané
+     - B, C
+   - hľadané
+     - A
 
 $S = p_1 \cap p_2; p_1 || CB; |p_1 CB| = 2; p_2 \parallel AC; |p_2 AC| = 2$
 
@@ -27,21 +31,20 @@ $A \in p_3 \cap CX; TB \in p_3$
 ## Postup
 
 1. $CB; |CB| = 6$
-2. $p_1, p_2; p_1 || CB; |p_1 CB| = 2 ; p_2 || XC; |p_2 XC| = 2$
-
-> čiaru $p_2$ dávame tak, aby sa križovala s $\overline{CB}$, inak by sme síce vytvorili kružnicu, ktorá sa dotýka, ale dotýkala by sa polpriamky $\overrightarrow{CX}$ mimo kruhu
-
-3. $S; S \in p_1 \cap p_2$
-4. $S_1; S_1 \in SB; |S_1 S| = |S_1 B|$
-5. $k; k(S, 2)$
-6. $l; l(S_1, |S S_1|)$
-7. $T; T \in k \cap l$
+2. $X; |XCB| = 90°$
+3. $p_1; p_1 || CB; |p_1 CB| = 2$
+4. $p_2, p_2 || XC; |p_2 XC| = 2$
+4. $S; S \in p_1 \cap p_2$
+5. $S_1; S_1 \in SB; |S_1 S| = |S_1 B|$
+6. $k; k(S, 2)$
+7. $l; l(S_1, |S S_1|)$
+8. $T; T \in k \cap l$
 
 > **ale pozor**, tu počítame ten prienik ďalej od bodu C, lebo ten bližšie pri ňom nám dá hlúposť (to som nevedl matematicky zapísať, tak to tu aj vysvetlím
 
-8. $p_3; TB \in p_3$
-9. $A; A \in CX \cap p_3; |XCB| = 90°$
-10. $\triangle ABC$
+9. $p_3; TB \in p_3$
+10. $A; A \in CX \cap p_3$
+11. $\triangle ABC$
 
 ## Konštrukcia
 
