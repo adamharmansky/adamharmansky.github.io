@@ -20,7 +20,7 @@ $\alpha = |\angle CAB| = 60^o$
    - dané
      - $C$, $C1$
    - hľadané
-     - A, B
+     - A, B, T, X, Y, Z
 
 no v prvom rade, ja som tu spravil takú menšiu fintu, dúfam, že mi to uznáte:
 
@@ -39,7 +39,7 @@ $B \in l \cap p; l(T, |AT|)$
 ## Postup
 
 1. $C C_1; |C C_1| = 5 cm$
-2. $X; X \in \overrightarrow{C_1 C}$
+2. $X; X \in \overrightarrow{C_1 C}; X \notin \overline{C_1 C}$
 3. $Y; |\angle XCY| = 60^o$
 2. $Z; |\angle YCZ| = 90^o$
 3. $p; p \perp \overline{C C_1}; C_1 \in p$
