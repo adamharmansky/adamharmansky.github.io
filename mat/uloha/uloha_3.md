@@ -8,7 +8,7 @@ $a = 6$
 
 $\rho = 2$
 
-$|XCB| = 90°$
+$|XCB| = 90^o$
 
 ![náčrt](1.png)
 
@@ -18,7 +18,7 @@ $|XCB| = 90°$
    - dané
      - B, C
    - hľadané
-     - A
+     - A, T, S, $S_1$
 
 $S = p_1 \cap p_2; p_1 || CB; |p_1 CB| = 2; p_2 \parallel AC; |p_2 AC| = 2$
 

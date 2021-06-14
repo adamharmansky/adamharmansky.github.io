@@ -20,7 +20,7 @@ tak v trojuholníku ani asi nemôže byť uhol väčší ako $180^o$, to by ani 
    - dané
      - P, B
    - hľadané
-     - A, C
+     - A, C, T, S, X
 
 ![náčrt](4.png)
 
@@ -56,4 +56,10 @@ irelevantná
 
 ## Diskusia
 
+jedno riešenie. tu sú podmienky
 
+$\alpha < 90 : t_a > v_b/(2 sin(\alpha))$
+
+$\alpha >= 90 : t_a > v_b/2$
+
+inak vyjde 0 riešení
