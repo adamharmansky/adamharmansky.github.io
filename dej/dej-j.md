@@ -20,7 +20,7 @@ po tejto bitke maďari začnú žiť usadlý život blízko slovanov a mnohými 
 
 ### zahraničná politika
 
-mal spory s poľskom ( boleslavom chabým ), aj so slovenskom
+mal spory s poľskom ( boleslavom chrabrý ), aj so slovenskom
 
 ### vnútorná politika
 
@@ -38,7 +38,7 @@ za kostol a cirkev platili ľudia - svojím spôsobom zintegroval cirkev so spr�
 
 ## ondrej 2.
 
-bol to vôbec najneschopnejší panovník v existancii maďarov. chcel robiť veľa križiackych výprav, lebo chcel peniaze, no tie výpravy sú skôr taký gambling, lebo to nemuselo byť úspešné. vznikalo napätie medzi panovníkom a šľachotou. aby to skončil, spravil **zlatú bulu** - zmenil krajinu na stavovskú hierarchiu.
+bol to vôbec najneschopnejší panovník v existancii maďarov. chcel robiť veľa križiackych výprav, lebo chcel peniaze, no tie výpravy sú skôr taký gambling, lebo to nemuselo byť úspešné. vznikalo napätie medzi panovníkom a šľachotou. aby to skončil, spravil **zlatú bulu** - zmenil krajinu na stavovskú monarchoiu.
 
 ### zlatá bula
 
@@ -53,7 +53,7 @@ bol to vôbec najneschopnejší panovník v existancii maďarov. chcel robiť ve
 
 ## belo 4.
 
-keď ondrej zomrel, nasledoval po ňom belo. nemal rád zlatú bulu, chcel ešte viac mozi ako panovník a oslabiť moc šľachty. na druhej strane podporuje remeselníkov. vytvoril triedu **meštania**, ktorí platili dane, no mali právo na vlastnų volenú samosprávu.
+keď ondrej zomrel, nasledoval po ňom belo. nemal rád zlatú bulu, chcel ešte viac moci ako panovník a oslabiť moc šľachty. na druhej strane podporuje remeselníkov. vytvoril triedu **meštania**, ktorí platili dane, no mali právo na vlastnų volenú samosprávu.
 
 ### mestská rada
 
@@ -98,7 +98,7 @@ začali útočiť v roku **1241** - zo zlatej hory podnikali výpravy aby nás v
 
 **kolonizácia**
 
-- nemecká - zakladali banské mestá a pod
+- nemecká - zakladali banské mestá
 - valašská - rumuni
 
 keď bélo zomrel, nastala **feudálna anarchia**.
@@ -137,7 +137,7 @@ Ján Luxemburský, Kazimír III a Karol Róbert - mali nejaké obchodné dohody
 
 ## Ľudovít 1 (veľký)
 
-veľký lebo obil veľký územný rozmach - pripojil poľsko
+veľký lebo robil veľký územný rozmach - pripojil poľsko
 
 mal 2 dcéry - máriu a hedvigu. mária si mala vziať žigmunda luxemburského, no spadla z koňa a zabila seba i dieťa tak vládu prevzal žigi.
 
@@ -156,5 +156,3 @@ ak pápež niečo chce, panovník mu to musí schváliť
 ján hus bol predchodca martina luthera vpodstate - nechcel predávanie odpustkov a podobne. jeho supenci sú husiti a robia nejakú revolúci či čo. btw ján husa bol upálený. husiti boli takisto trochu komunisti. spravili dokonca mesto, kde je každý rovný a keď prídeš, odovzdáš svoje veci a rovno sa rozdelia. významní husita bol **ján žižka**. 
 
 ![husitská vlajka](16368.png)
-
-kk

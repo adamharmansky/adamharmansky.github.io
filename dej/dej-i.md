@@ -12,8 +12,6 @@ Po zániku Samovej ríše – hradiská : mocenské , územnosprávne a remeseln
 
 ## Moravské kniežatstvo
 
- - 
-
 ![Nitra a Morava](nitra_morava.png)
 
 **833 vzniká Veľká Morava** - Moravské + Nitrianske kniežatstvo
@@ -45,7 +43,7 @@ Po zániku Samovej ríše – hradiská : mocenské , územnosprávne a remeseln
  - Svätopluk bol nominovaný kráľom
 
  - Asi späťnásobil ríšu
-   - vzal blatnohrad, cechunov, sliezsko, luzickych srbov...
+   - vzal blatnohrad, čechúňov, sliezsko, luzickych srbov...
 
  - lmao on chcel dať vládu všetkím svojím trom synom a oni sa pobili a risa bola ende Schluss
    - Dali nás dole Frankovia a Maďari
@@ -55,11 +53,10 @@ Po zániku Samovej ríše – hradiská : mocenské , územnosprávne a remeseln
  - 863 - prišli
  - Svätopluk ho nemal rád
  - Konštanín
-   - potom si dal meno Cyril
+   - majprv mal meno Cyril
    - bol viac talentovný ako metod
-   - vedel jazykom Slovanov
+   - vedel jazyk Slovanov
  - Metod
-   - najprv sa volal Michal
    - lmao veď on sa iba ťahal za konšatantínom
 
 ### Ararbský Khalifát
@@ -84,7 +81,7 @@ Po zániku Samovej ríše – hradiská : mocenské , územnosprávne a remeseln
  - preložil bibibliu do slovienčiny
    - napísal aj *Proglas* - basnička
  - **863** - prišli
- - založisli **prvé slovanské učilište**
+ - založili **prvé slovanské učilište**
 
  - Na slovensku ale bolo treba kňazov a na to musia byť biskupmi
    - Išli do ríma
@@ -93,8 +90,8 @@ Po zániku Samovej ríše – hradiská : mocenské , územnosprávne a remeseln
 
 > *Či neprichádza dážď od Boha na všetkých rovnako? A či slnko nesvieti takisto na všetkých? Či rovnako nedýchame na vzduchu všetci? To sa vy nehanbíte uznávať iba tri jazyky a prikazovať, aby všetky ostatné národy a kmene boli slepé a hluché? Povedzte mi, či robíte Boha bezmocným, že to nemôže dať, alebo závistlivým, že to nechce?*
 
-     - oh jes on súhlasil :suhlasim:
+ - oh jes on súhlasil ![uhorka](suhlasim.png)
 
- - ked metod zômrel, ich stupencov vyhnali z velkej moravy :madmanjoy:
+ - ked metod zômrel, ich stupencov vyhnali z velkej moravy ![xd](xd.png)
 
  - veľká morava zaniká, ale kresťanstvo tu je
