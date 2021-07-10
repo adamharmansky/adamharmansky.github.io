@@ -29,11 +29,11 @@ Ne. | prechádzka
 \vspace{0.3cm}
 
 Na rozcvičenie sa prebehnem 5 minút na bežiacom páse. Po tom spravíme pár cvikov z bežeckej abecedy pre viacstranné rozcvičenie.
-Ja mám rád jednoduché cviky, ktoré sa opakujú. Preto moje cvičenie bude pozostávať z rôzneho počtu opakovania jednotlivých cvikov. Nižšie uvedená tabuľka tieto cviky obsahuje:
+Moje cvičenie bude pozostávať z rôzneho počtu opakovania jednotlivých cvikov. Nižšie uvedená tabuľka tieto cviky obsahuje:
 
 \vspace{0.5cm}
 
-cvik | približný počet opakovaní
+cvik | počet opakovaní
 --- | ---
 kľuky (klasika) | 20
 drepy           | 20
@@ -45,13 +45,13 @@ akože sa to len volá \footnote{tá vec kde ležíte na bruchu a dvíhate ruky 
 mostík | 20
 odpočinok | kým trvanie momentálnej série nie je $5 min$ \footnote{áno, vymeral som si to}
 
-takúto sériu budeme opakovať 7-9 krát \footnote{7 iba ak bol test z chémie, inak by som nemal byť psychicky unavený}
+takúto sériu budeme opakovať 10 krát. ukončíme rôznymi formami statického strečingu.
 
 \pagebreak
 
 ## Strava
 
-Stava bude dodržiavať typický režim raňajky-obed-večera s tým, že aj keď chodím na obedy do školskej jedálne, dám sem inú stravu, pretože školská jedáleň veľmi nespĺňa požiadavky na fitnes. 
+Stava bude dodržiavať typický režim raňajky-obed-večera s tým, že aj keď chodím na obedy do školskej jedálne, dám sem inú stravu, pretože školská jedáleň veľmi nespĺňa požiadavky na fitnes. Na desiatu a olovrant by sme všeobecne mohli jesť nejaké ovocie a zeleninu, čo príde. strava na ostatné dni je nasledovná:
 
 \vspace{0.5cm}
 
