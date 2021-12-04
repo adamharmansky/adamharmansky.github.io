@@ -1,75 +1,207 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
-		<link href=style.css rel="stylesheet">
-		<style>
-			ul{text-align:left;padding-left:30%;padding-right:30%}
-		</style>
-	</head>
-	<body>
-		<h1>Programátorský adventný kalendár</h1>
-		<div id=navbar>
-			<a href='index.html' id=navbar_button>Domov</a>
-			<a href='book.html' id=navbar_button>Kniha</a>
-			<a href='rice.html' id=navbar_button>DWM Rice + Deploy Script</a>
-		</div>
-		<p>
-			Programátorský adventný kalendár je menšia súťaž, v ktorej je každý deň od 6. do 24. decembra zverejnená jedna krátka programovacia úloha (zväčša graficky zameraná). Súťažiaci potom večer odovzdajú video, kód a fotografie svojho diela na náš e-mail. <i>Bodovací systém je orientovaný tak, aby počet odovzdaných úloh nehral najväčšiu rolu v hodnotení, keďže nie každý si vie vždy nájsť čas na riešenie.</i> Úlohy sú hodnotené do troch kategórií za kreativitu, optimalizáciu a jednoduchosť kódu.
-		</p>
-		<p>
-			Súťaž je hlavne o kreativite a zábave a preto nekladieme žiadne obmedzenia na programovací jazyk a použité knižnice. Kľudne môžete použiť aj pythonový <code>tkinter</code>, <code>cairo</code>, ale aj <code>OpenGL</code>, <code>raylib</code> (odporúčam!), no kľudne môže ísť aj o textovú grafiku pomocou <code>ncurses</code> alebo aj štandardných IO funkcií, ak sa tak cítite.
-		</p>
-		<h2>
-			Pravidlá hry
-		</h2>
-		<ul>
-			<li>nová úloha vychádza každé ráno, najneskôr o ôsmej</li>
-			<li>
-				riešenia treba odovzdať do 24. decembra na e-mail <a href="mailto:micv@firemail.cc"> micv@firemail.cc </a>
-			</li>
-			<li>
-				Obsah E-mail-u:
-				<ul>
-					<li> Kód </li>
-					<li> Video </li>
-					<li> Niekoľko reprezentatívnych screenshotov </li>
-				</ul>
-			</li>
-		</ul>
-		<h2> Úlohy </h2>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet" />
+    <style> 
+        ul {text-align: left; }
+        body {line-height: 1.5rem}
+        h2 {padding: 1em }
+        .listmain { display: table; margin: 0 auto; } 
+        .text {padding-left: 7%; padding-right: 7%}
+    </style>
+  </head>
+  <body>
+    
+    <h1 style="padding: 0.5em">Programátorský adventný kalendár</h1>
+    
+    <div id="navbar">
+      <a href="index.html" id="navbar_button">Domov</a>
+      <a href="book.html" id="navbar_button">Kniha</a>
+      <a href="rice.html" id="navbar_button">DWM Rice + Deploy Script</a>
+    </div>
+    
+    <br>
+    
+    <p class="text">
+      Programátorský adventný kalendár je súťaž, v ktorej je každý deň od
+      6. do 24. decembra zverejnená jedna krátka programovacia úloha (zväčša
+      graficky zameraná). Súťažiaci potom odovzdajú video, kód a fotografie 
+      svojho diela na náš e-mail.
+      <i>
+        Bodovací systém je orientovaný tak, aby počet odovzdaných úloh nehral
+        najväčšiu rolu v hodnotení, keďže nie každý si vie vždy nájsť čas na
+        riešenie.
+      </i>
+      Úlohy sú hodnotené podľa troch kategórií: kreativitu, optimalizácia a
+      jednoduchosť kódu (tzv. sucklessness).
+    </p>
+    
+    <p class="text">
+      Súťaž je hlavne o kreativite a zábave a preto nekladieme žiadne obmedzenia
+      na programovací jazyk a použité knižnice. Kľudne môžete použiť aj
+      pythonový <code>tkinter</code>, <code>cairo</code>, ale aj
+      <code>OpenGL</code>, <code>raylib</code> (odporúčam!), no kľudne môže ísť
+      aj o textovú grafiku pomocou <code>ncurses</code> alebo aj štandardných IO
+      funkcií, ak sa tak cítite. 
+    </p>
+    
+    <a href="https://github.com/HandmadeNetwork/jam_templates"> Templáty na jednoduché aplikácie </a>
 
-		<table>
-			<tr> <th> Dátum </th> <th> Úloha </th> <th> Riešenia </th> </tr>
-			<tr> <td> 6. December 2021</td>  <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 7. December 2021</td>  <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 8. December 2021</td>  <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 9. December 2021</td>  <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 10. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 11. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 12. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 13. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 14. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 15. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 16. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 17. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 18. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 19. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 20. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 21. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 22. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 23. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-			<tr> <td> 24. December 2021</td> <td><a href='about:blank'>Zatiaľ Nezverejnená</a></td> <td><a href='about:blank'>Zatiaľ Žiadne</a></td> </tr>
-		</table>
+    <h2>Pravidlá hry</h2>
 
-		<h2>Kontakt</h2>
-		<p> <img src="media/email.svg"> <a href="mailto:micv@firemail.cc"> micv@firemail.cc </a>, <a href="mailto:pavol.a.komlos@gmail.com"> pavol.a.komlos@gmail.com </a></p>
-		<p> <img src="media/discord.svg" width=24px height=24px> <a href="https://discord.com/users/453938111446253580"> adamharmansky#5040 </a>, <a href="https://discord.com/users/312633991012417537"> Plundration#7408 </a></p>
-		<p> <img src="media/github.png" width=24px height=24px> <a href="https://github.com/adamharmansky"> adamharmansky </a>, <a href="https://github.com/plundration"> plundration </a></p>
-	</body>
+    <ul class="listmain">
+      <li> Nová úloha vychádza každé ráno, najneskôr o ôsmej </li>
+      <li> Riešenia treba odovzdať do 24. decembra na e-mail <a href="mailto:micv@firemail.cc"> micv@firemail.cc </a> </li>
+      <li> Obsah E-mail-u: 
+        <ul>
+            <li>Číslo úlohy</li>
+            <li>Kód (neposielajte executable files!!!)</li>
+            <li>Video / reprezentatívne screenshoty</li>
+            <li>Meno alebo alias</li>
+        </ul>
+      </li>
+    </ul>
+
+    <h2>Ceny</h2>
+    <p class="text">
+        Ceny sú sponzorované z našich vlastných peňazí. Toto sú minimálne ceny (ak získame sponzorstvo, tak môžeme dať viac):
+        <ul class="listmain">
+            <li>1. miesto - 10-eurový Darčekový kupón do DataComp</li>
+            <li>2. miesto - Nálepka Raspberry PI </li>
+            <li>3. miesto - 3 invites na <a href="https://www.cock.li">cock.li</a> </li>
+        </ul>
+    </p>
+
+    <h2>Úlohy</h2>
+
+    <table>
+      <tr>
+        <th>Dátum</th>
+        <th>Úloha</th>
+        <th>Riešenia</th>
+      </tr>
+      <tr>
+        <td>6. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>7. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>8. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>9. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>10. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>11. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>12. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>13. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>14. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>15. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>16. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>17. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>18. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>19. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>20. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>21. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>22. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>23. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+      <tr>
+        <td>24. December 2021</td>
+        <td><a href="about:blank">Zatiaľ Nezverejnená</a></td>
+        <td><a href="about:blank">Zatiaľ Žiadne</a></td>
+      </tr>
+    </table>
+
+    <h2>Kontakt</h2>
+    <p>
+      <img src="media/email.svg" />
+      <a href="mailto:micv@firemail.cc"> micv@firemail.cc </a>,
+      <a href="mailto:pavol.a.komlos@gmail.com"> pavol.a.komlos@gmail.com </a>
+    </p>
+    <p>
+      <img src="media/discord.svg" width="24px" height="24px" />
+      <a href="https://discord.com/users/453938111446253580">
+        adamharmansky#5040 </a
+      >,
+      <a href="https://discord.com/users/312633991012417537">
+        Plundration#7408
+      </a>
+    </p>
+    <p>
+      <img src="media/github.png" width="24px" height="24px" />
+      <a href="https://github.com/adamharmansky"> adamharmansky </a>,
+      <a href="https://github.com/plundration"> plundration </a>
+    </p>
+  </body>
 </html>
