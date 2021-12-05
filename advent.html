@@ -10,21 +10,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet" />
-	 <meta name="viewport" content="width=device_width, initial_scale=1">
-    <link href="style.css" rel="stylesheet" />
-    <style> 
-		  h1 {line-height:1.4; padding:0; align:center;}
-        h2 {padding: 1em }
-        .listmain { display: table; margin: 0 auto;} 
-		  .smol {font-size:14pt}
-    </style>
+    <link href="/style.css" rel="stylesheet" />
+    <link href="/adventstyle.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device_width, initial_scale=1">
   </head>
   
   
   <body>
-    <h1 style="padding: 0.5em">Advent programovania</h1>
-	 <hr/>
-    <p >
+    <h1>Advent programovania</h1>
+	<hr/>
+
+    <p>
 		Advent programovania je súťaž, v ktorej je každý deň od 6. do 24.
 		decembra zverejnená jedna krátka programovacia úloha (zväčša graficky
 		zameraná). Súťažiaci potom odovzdajú video, kód a fotografie svojho diela
@@ -34,8 +30,8 @@
         najväčšiu rolu v hodnotení, keďže nie každý si vie vždy nájsť čas na
         riešenie.
       </i>
-      Úlohy sú hodnotené podľa troch kategórií: kreativita, optimalizácia a
-      prehľadnosť kódu.
+        Úlohy sú hodnotené podľa troch kategórií: kreativita, optimalizácia a
+        prehľadnosť kódu.
     </p>
     
     <p >
@@ -52,8 +48,7 @@
     <a href="https://gist.github.com/raysan5/bd8c0293d8b8da1e9e44d8ac435e9304"> Open source programy na tvorbu applikácii a hier </a>
 
     <h2>Pravidlá hry</h2>
-
-    <ul class="listmain">
+    <ul class="centerlist">
       <li> Nová úloha vychádza každé ráno, najneskôr o ôsmej </li>
       <li> Môžete odovzdávať aj úlohy z predošlých dní </li>
       <li> Riešenia treba odovzdať do 24. decembra na <a href="mailto:micv@firemail.cc"> micv@firemail.cc </a> </li>
@@ -67,49 +62,46 @@
       </li>
     </ul>
 
-	 <h2>Hodnotenie</h2>
-	 <p >
+
+	<h2>Hodnotenie</h2>
+    <p>
 		Úlohy sú hodnotené podľa troch kategórií: kreativita, optimalizácia a
-		prehľadnosť kódu, aby
-		si pri riešení každý prišiel na svoje. Maximálne počty bodov za
-		jednotlivé kategórie sú nasledovné:
-		<div style="overflow:auto">
+		prehľadnosť kódu, aby si pri riešení každý prišiel na svoje. Maximálne
+        počty bodov za jednotlivé kategórie sú nasledovné:
+		<div class="tabulka">
 			<table>
 				<tr> <th class=smol> Kreativita </th> <th class=smol> Optimalizácia </th> <th class=smol> Prehľadnosť </th> </tr>
 				<tr> <td> 10         </td> <td> 5             </td> <td> 5           </td> </tr>
 			</table>
 		</div>
-	 </p>
-	 <p class='text'>
+	</p>
+	<p class='text'>
 		Počty bodov za jednotlivé kategórie sa potom pre úlohu sčítajú. Aby bola
 		súťaž viac férová pre tých, ktorí si na ňu nevyhradili voľný čas, funkcia
 		konečného počtu bodov je nasledovná:
     </p>
-    <img src='https://latex.codecogs.com/svg.image?B=\frac{B_1+B_2+...+B_n}{n}\cdot{}ln(1+n)' style='-webkit-filter:invert(100%);'> </img>
-	 <p >
-		Rebríček je samostatný pre základné a stredné školy.
-    </p>
+    <img src='https://latex.codecogs.com/svg.image?B=\frac{B_1+B_2+...+B_n}{n}\cdot{}ln(1+n)' style='-webkit-filter:invert(1); filter:invert(1)'> </img>
+	<p> Rebríček je samostatný pre základné a stredné školy.  </p>
+
 
     <h2>Ceny</h2>
-    <p >
+    <p>
         Za ceny ďakujeme Gymnáziu Poštová 9, Košice. Hľadáme ďalších sponzorov, čiže nám neváhajte napísať!
-        <ul class="listmain">
-            <li>1. miesto - Steam Factory - vstup do lanového centra pre 1 osobu + GYMPOS merch</li>
-            <li>2. miesto - 10-eurový Darčekový kupón do DataComp + GYMPOS merch</li>
+        <ul class="centerlist">
+            <li>1. miesto - 10-eurový Darčekový kupón do DataComp + GYMPOS merch</li>
+            <li>2. miesto - Raspberry PI Pico + GYMPOS merch</li>
             <li>3. miesto - Nálepka Raspberry PI + GYMPOS merch</li>
         </ul>
     </p>
 
-	 <hr/>
+	<hr/>
 
     <h2>Úlohy</h2>
 
-	<div style="overflow:auto">
+	<div class="tabulka">
 		 <table>
 			<tr>
-			  <th>Dátum</th>
-			  <th>Úloha</th>
-			  <th>Riešenia</th>
+			  <th>Dátum</th> <th>Úloha</th> <th>Riešenia</th>
 			</tr>
 			<tr>
 			  <td>6. December 2021</td>
