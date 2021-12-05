@@ -19,4 +19,7 @@ table{border-spacing:10pt;margin-left:auto;margin-right:auto;text-align:left;max
 	h1 {
 		font-size:24pt;
 	}
+	table {
+		overflow:hidden;
+	}
 }
