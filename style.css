@@ -1,4 +1,6 @@
 *{font-size:16pt;font-family:'Ubuntu', Sans-serif}
+html{height:100%}
+body{min-height:100%}
 body{color:white;font-family:Sans-serif;background-color:#282a36;text-align:center;line-height:1.5rem}
 code{color:white;font-family:'Ubuntu Mono', monospace;background-color:#585b6e;color:#f1fa8c;border-radius:4px;padding:4px;}
 h1{font-size:40pt;font-family:'Orbitron', Sans-serif;margin:0px;text-decoration:bold;color:#ff79c6;}
