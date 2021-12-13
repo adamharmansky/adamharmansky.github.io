@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
-  
   <head>
-    <title>Advent programovania - Úloha 1</title>
-    <link rel=icon type='image/png' href='media/snowflake.png'>
+  
+    <title>Advent programovania - Vianoce 2021</title>
+    <meta name="viewport" content="width=device_width, initial_scale=1" />  
+    <link rel=icon type="image/png" href="/media/snowflake.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet" />
@@ -11,48 +12,43 @@
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet" />
     <link href="/style.css" rel="stylesheet" />
-    <style> 
-        ul {text-align: left; display: table; margin: 0 auto;}
-        body {line-height: 1.5rem}
-        h1 {padding: 0.5em}
-        h2 {padding: 1em }
-        .text {padding-left: 7%; padding-right: 7%}
-        .mjx {filter: invert(1)}
-    </style>
+    <link href="/adventstyle.css" rel="stylesheet" />
+    <style> .mjx {filter: invert(1)} </style>
   </head>
   
 
   <body>
-    <h1># Harmanbrot</h1>
+    <h1>Harmanbrot</h1>
     <br>
 
     <p>
-        Adam a Pavol sa na matematike hrali s fraktálmi. Adam si všimol, že ak
-        iteruje funkciu <img class="mjx" src="https://latex.codecogs.com/png.latex?f(z)=z%5E2+C"/> pre rôzne komplexné čísla <img class="mjx" src="https://latex.codecogs.com/png.latex?C"/> a
-        <img class="mjx" src="https://latex.codecogs.com/png.latex?z=0+0i"/>, tak hodnoty buď explodujú k nekonečnu, stabilizujú sa pri
-        jednej hodnote, zaseknú sa do cyklu alebo sa správajú takmer náhodne.
+        Adam a Pavol sa na matematike hrali s fraktálmi. Adam si všimol, že ak iteruje funkciu <img class="mjx" src="https://latex.codecogs.com/png.latex?f(z)=z%5E2+C"/> pre rôzne <br>
+        komplexné čísla <img class="mjx" src="https://latex.codecogs.com/png.latex?C"/> a <img class="mjx" src="https://latex.codecogs.com/png.latex?z=0+0i"/>, tak hodnoty buď explodujú k nekonečnu, stabilizujú sa pri jednej hodnote, <br>
+        zaseknú sa do cyklu alebo sa správajú takmer náhodne. 
     </p>
 
-    <h2>## Úloha:</h2> 
+    <h2>Úloha:</h2> 
     <p>
-        Naprogramujte vizualizáciu tohto fenoménu (Mandelbrot set). <br>
+        Naprogramujte vizualizáciu tohto fenoménu (Mandelbrot set).<br>
         Rozdeľte si štvorec na pixely a priraďte im číslo z ktoré im patrí v rovine komplexných čísel. <br>
-        Ak číslo explóduje k nekonečnu zafarbite ho na tmavo, ak nie zafarbite ho na svetlo.
+        Ak číslo explóduje k nekonečnu zafarbite ho na tmavo, ak nie zafarbite ho na svetlo. <br>
+        Spolu s kódom pošlite aj pár vyhotovených obrázkov. <br>
+        <b>Táto úloha je o dosť tažšia a bude tak aj hodnotená, kľudne na nej pracujte niekoľko dní</b>
     </p>
     
-    <h2>## Pomocné zdroje:</h2>
+    <h2>Pomocné zdroje:</h2>
     <a href="https://mathworld.wolfram.com/MandelbrotSet.html">Mandelbrot set simulator</a><br> 
     <a href="https://www.youtube.com/watch?v=FFftmWSzgmk">Numberphile</a><br>
     <a href="https://www.youtube.com/watch?v=5PcpBw5Hbwo">Complex number fundamentals</a><br>
 
-    <h2>## Bonus:</h2>
-    <ul>
+    <h2>Bonus:</h2>
+    <ul class="centerlist">
         <li>Ak sa číslo zasekne do cyklu, zafarbite ho podľa frekvencie opakovania.</li>
         <li>Možnosť priblíženia / vybratia sektoru komplexných čísel.</li>
         <li>Interaktívna aplikácia.</li>
     </ul>
 
-    <h2>## Väčší projekt:</h2>
+    <h2>Väčší projekt:</h2>
     <p>
         Naprogramujte túto vizualizáciu pre rôzne začiatočné hodnoty z s nemenným C. <br>
         V odbornej literatúre sa tomuto hovorí Julia set.
