@@ -1,0 +1,26 @@
+*{font-size:16pt;font-family:'Ubuntu', Sans-serif}
+html{height:100%}
+body{min-height:100%}
+body{color:white;font-family:Sans-serif;background-color:#282a36;text-align:center;line-height:1.5rem}
+code{color:white;font-family:'Ubuntu Mono', monospace;background-color:#585b6e;color:#f1fa8c;border-radius:4px;padding:4px;}
+h1{font-size:40pt;font-family:'Orbitron', Sans-serif;margin:0px;text-decoration:bold;color:#ff79c6;}
+h2{font-size:25pt;font-family:'Orbitron', Sans-serif;margin:0px;text-decoration:bold;color:#50fa7b;}
+h3{font-size:20pt;font-family:'Orbitron', Sans-serif;margin:0px;text-decoration:bold;color:#ffb86c;}
+th{font-size:20pt;font-family:'Orbitron', Sans-serif;margin:0px;text-decoration:bold;color:#ffb86c;}
+td{ border: 1px solid #44475B ; border-radius: 5px; padding: 9px; text-align: center;}
+p{padding-left:12%; padding-right:12%;text-align:justify;}
+a{color:#ff5555;text-decoration:underline;transition:0.5s;}
+a:hover{color:#ffffff}
+hr{margin:40px 40px;border: 2px dashed #44475a}
+ul {text-align: left;}
+.centerlist { display: table; margin: 0 auto;} 
+table{border-spacing:10pt;margin-left:auto;margin-right:auto;text-align:left;max-width:100%;}
+.tabulka {overflow:auto}
+#navbar{margin:40px 40px;padding:2px;}
+#navbar_button{background-color:#585b6e;color:#8be9fd;float:left;display:block;margin:4px 4px;padding:4px;Font-family:'Ubuntu Mono',monospace;border-radius:3px;transition:0.5s;}
+#navbar_button:hover{padding-left:20px;padding-right:20px;color:#9ffdfd;}
+@media screen and (max-width: 900px) {
+	h1 {
+		font-size:24pt;
+	}
+}
